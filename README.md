@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm José Alonso
+
+🔭 I’m currently working at KCL, working with @CemrgAppDevelopers, I also enjoy Matlab and did most of my PhD there, check my macrosight repository! 
+
+💬 Ask me about anything Matlab, C++ or programing in general. Happy to help. 
+
+📫 The best way to reach me would be on my KCL email (look in my profile). 
+
+I also have a website https://alonsojasl.github.io 
 
 <!--
 **alonsoJASL/alonsoJASL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
